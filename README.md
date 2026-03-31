@@ -101,4 +101,4 @@ The dataset includes transactional data with fields such as:
 
 ## 💡 Author
 Built as part of a data analytics portfolio project to demonstrate Power BI and business analysis skills.
-Adil Khan
+
